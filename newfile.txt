@@ -1,2 +1,2 @@
 line 1 - Initial
-line 2 - This is second commit
+line 2 - This is first commit
